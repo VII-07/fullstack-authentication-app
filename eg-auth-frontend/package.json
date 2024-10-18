@@ -1,6 +1,6 @@
 {
-  "name": "eg-frontend",
-  "version": "0.1.0",
+  "name": "auth-frontend",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",

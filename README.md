@@ -1,4 +1,4 @@
-# Authentication App
+# Fullstack Authentication App
 
 Full-stack authentication application with NestJS backend and React frontend.
 
@@ -12,7 +12,7 @@ Full-stack authentication application with NestJS backend and React frontend.
 ### Backend
 
 ```bash
-cd eg-auth-backend
+cd backend
 npm install
 ```
 
@@ -30,7 +30,7 @@ npm run start:dev
 ### Frontend
 
 ```bash
-cd eg-auth-frontend
+cd frontend
 npm install
 ```
 
